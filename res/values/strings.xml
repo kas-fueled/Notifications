@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">notifications</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="notification">Here are the details for the notifications</string>
+    <string name="notificationDetails">Details of Notifications</string>
+    <string name="Display">Display Notifications</string>
+    
+
+</resources>
